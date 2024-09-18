@@ -22,7 +22,7 @@ git push -u origin main
 
 ```
 
-### ROUTER
+### ROUTER >> membuat halaman landing, login, register, dashboard
 ```
 npm install react-router-dom
 
